@@ -1,4 +1,4 @@
-Source: test-package
+Source: debian-test-package
 Section: devel
 Priority: optional
 Maintainer: Cody Garver <cody@elementaryos.org>
@@ -6,7 +6,7 @@ Build-Depends: debhelper
 Standards-Version: 3.9.6
 Homepage: http://elementaryos.org
 
-Package: test-package
+Package: debian-test-package
 Architecture: any
 Depends: ${misc:Depends}
 Description: empty test package
