@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Debian Test Package
+GenericName=Test Project
+Comment=This is a Package for testing, no usable Application in here
+Exec=debian-test-package
+Icon=debian-test-package
