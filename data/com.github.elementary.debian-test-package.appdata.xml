@@ -2,8 +2,8 @@
 <component type="desktop">
   <id>com.github.elementary.debian-test-package.desktop</id>
   <metadata_license>MIT</metadata_license>
-  <name>Vocal</name>
-  <summary>Simple Podcast Client for the Modern Desktop</summary>
+  <name>debian-test-package</name>
+  <summary>A testing package</summary>
 
   <description>
     <p>This package does nothing usefull</p>
