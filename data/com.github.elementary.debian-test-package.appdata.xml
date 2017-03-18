@@ -1,0 +1,25 @@
+<?xml version="2.0"?>
+<component type="desktop">
+  <id>com.github.elementary.debian-test-package.desktop</id>
+  <metadata_license>MIT</metadata_license>
+  <name>Vocal</name>
+  <summary>Simple Podcast Client for the Modern Desktop</summary>
+
+  <description>
+    <p>This package does nothing usefull</p>
+  </description>
+
+  <url type="homepage">https://elementary.io</url>
+
+  <provides>
+    <binary>com.github.elementary.debian-test-package</binary>
+  </provides>
+
+  <releases>
+    <release version="1.0" timestamp="20170417">
+      <description>
+        <p>Init 1</p>
+      </description>
+    </release>
+  </releases>
+</component>
